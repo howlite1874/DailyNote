@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "9881c2da50e2e6c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe3fb3f9cdbea207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5654a07330e46cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proj spdlog source code analysis/spdlog库笔记 （一）：简介.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6799bfdb9099309b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bb8d0fe533532fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c726d15af6cecadb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8744b91a24c05c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "BVH",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c97465b3df45af3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cd31fc9ffd48900",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e2da282db5bae78c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbd1295c219808fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2044517b00b93d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Proj spdlog source code analysis/spdlog库笔记 （一）：简介.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d1271ce978e25d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Proj spdlog source code analysis/spdlog库笔记 （一）：简介.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1f921822ccfb62e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "46abdad25f068b8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Proj spdlog source code analysis/spdlog库笔记 （一）：简介.md"
+              }
+            }
+          },
+          {
+            "id": "73d47668c3f4fd0a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ff262b7ae161d97",
+            "type": "leaf",
+            "state": {
+              "type": "trello-plugin",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5ce2d63c264316e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "5654a07330e46cb4",
+  "lastOpenFiles": [
+    "GA101 C++ Programming/Unreal Animation System.md",
+    "Proj spdlog source code analysis/spdlog库笔记 （一）：简介.md",
+    "Proj spdlog source code analysis",
+    "Pasted image 20230830182120.png",
+    "Pasted image 20230830165325.png",
+    "Pasted image 20230830165242.png",
+    "Pasted image 20230830143726.png",
+    "Pasted image 20230830143321.png",
+    "Pasted image 20230830140824.png",
+    "Pasted image 20230830140815.png",
+    "GA101 C++ Programming/Effective C++.md",
+    "GA101 C++ Programming/auto.md",
+    "GA101 C++ Programming/C++ Learning Resources.md",
+    "GA101 C++ Programming/Thinking in OOP/结构型模式 -- 装饰模式Decorator.md",
+    "GA101 C++ Programming/Thinking in OOP/Polymorphism vs. Inheritance.md",
+    "GA101 C++ Programming/Thinking in OOP/Polymorphism.md",
+    "GA101 C++ Programming/Isolation 2023/个人技术选型.md",
+    "GA101 C++ Programming/C++ Concurrency/C++ Concurry Learning(8) Parallelism.md",
+    "GA101 C++ Programming/C++ Concurrency/C++ Concurry Learning(7) Async Programming.md",
+    "GA101 C++ Programming/C++ Concurrency/C++ Concurry Learning(6) Atomic Types.md",
+    "GA101 C++ Programming/C++ Concurrency/Udemy Notes.md",
+    "GA101 C++ Programming/C++ Concurrency/C++ Concurry Learning(5) Thread Syncronization.md",
+    "GA101 C++ Programming/C++ Concurrency/C++ Concurry Learning(4) Locking Issues.md",
+    "Futures and Promises Overview Solutions.pdf",
+    "Condition Variables Solutions.pdf",
+    "Lock-free Programming Practical Continued Solutions.pdf",
+    "Multiple Threads Solutions.pdf",
+    "Managing a Thread Solutions.pdf",
+    "Internally Synchronized Class Solutions.pdf",
+    "Future and Promise Classes Solutions.pdf",
+    "Double-checked Locking Solutions.pdf",
+    "Condition Variables with Predicate Solutions.pdf",
+    "GA101 C++ Programming/CPP Conference List.md",
+    "GA101 C++ Programming/Learn Cmkae Notes.md",
+    "GA101 C++ Programming/RAII资源管理与智能指针.md",
+    "Soul Tree.canvas",
+    "Untitled.md",
+    "README.md",
+    "Model Background Invertigation.md",
+    "Feb. 2 Mar..md",
+    "DuduNoDay.md",
+    "Daily.md",
+    "2023-02-15.md",
+    "2023-03-19.md",
+    "ZZ res/68747470733a2f2f636f64652d7468696e6b696e672d313235333835353039332e66696c652e6d7971636c6f75642e636f6d2f706963732f32303230303830363139343532393831352e706e67.png",
+    "ZZ res/Pasted image 20230827131712.png",
+    "ZZ res/68747470733a2f2f636f64652d7468696e6b696e672d313235333835353039332e66696c652e6d7971636c6f75642e636f6d2f706963732f32303230303830363139353230303237362e706e67.png",
+    "_Dev/Dev.canvas",
+    "GA105 Fudanmentals of Simulation/Games103Note.canvas",
+    "GA101 C++ Programming/Leetcode Daily/Leetcode Canvas.canvas",
+    "ELf OpenGL Renderer/Elf-GLRenderer.canvas",
+    "GA201 Game Engine Dev/IO.canvas"
+  ]
+}

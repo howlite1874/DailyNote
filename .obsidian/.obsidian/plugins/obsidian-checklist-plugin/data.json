@@ -1,0 +1,17 @@
+{
+  "todoPageName": "TODO",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "1.4 Multiplication and Inverse Matrices.md"
+  ],
+  "_hiddenTags": []
+}
