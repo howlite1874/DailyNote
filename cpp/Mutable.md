@@ -9,7 +9,3 @@ std::function<int(int)> a = [=](int x)mutable->int{
 int x = 2;
 a(x);
 ```
-
-```
-
-```

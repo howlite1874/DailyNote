@@ -1,3 +1,4 @@
+The Facade Pattern is a structural design pattern that provides a simplified interface to a larger body of code, such as a library, a framework, or a complex system of classes. It hides the complexities of the larger system and provides a simpler, more user-friendly interface.
 ```c++
 class Light {
 public:
