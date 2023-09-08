@@ -1,4 +1,73 @@
-qt
+
+```c++
+#include <iostream>
+#include <string>
+#include <vector>
+
+// Forward declaration
+class User;
+
+class ChatRoomMediator {
+public:
+    virtual void showMessage(User* user, const std::string& message) = 0;
+};
+
+class User {
+protected:
+    ChatRoomMediator* mediator;
+    std::string name;
+
+public:
+    User(ChatRoomMediator* med, const std::string& name) : mediator(med), name(name) {}
+
+    const std::string& getName() const {
+        return name;
+    }
+
+    void send(const std::string& message) {
+        mediator->showMessage(this, message);
+    }
+};
+
+//-----------------------------------------------------------------------------
+class ChatRoom : public ChatRoomMediator {
+private:
+    std::vector<User*> users;
+
+public:
+    void addUser(User* user) {
+        users.push_back(user);
+    }
+
+    void showMessage(User* user, const std::string& message) override {
+        std::cout << user->getName() << ": " << message << std::endl;
+        // You can implement more logic here, for example broadcasting to all users
+    }
+};
+
+//--------------------------------------------------------------------------------
+int main() {
+    ChatRoom* chatroom = new ChatRoom();
+
+    User* john = new User(chatroom, "John");
+    User* jane = new User(chatroom, "Jane");
+
+    chatroom->addUser(john);
+    chatroom->addUser(jane);
+
+    john->send("Hi Jane!");
+    jane->send("Hello John!");
+
+    delete jane;
+    delete john;
+    delete chatroom;
+
+    return 0;
+}
+
+```
+
+
 ```c++
 #include <iostream>
 #include <QObject>
