@@ -28,7 +28,7 @@ private:
 public:
     void registerObserver(Observer* o) override {
         observers.push_back(o);
-    }
+    } 
 
     void removeObserver(Observer* o) override {
         observers.erase(std::remove(observers.begin(), observers.end(), o), observers.end());
